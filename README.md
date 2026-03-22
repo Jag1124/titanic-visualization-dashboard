@@ -1,7 +1,7 @@
 # Titanic Visualization Dashboard
 
 ## Overview
-This project is part of Data Science with Python Internship Task 4.
+This project is part of Data Science with Python Internship.
 Titanic dataset is used to create a mini visualization dashboard.
 
 ## Steps Performed
